@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "fee59acfc91a7f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb53e3e34eca98e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a28dcee9833c88cb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c00d17b82c67386",
+    "type": "split",
+    "children": [
+      {
+        "id": "83df1980dc9ec231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc6a4efa23d0ba7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "a88c2c1125e4b33b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "3d501667d0a0d873",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          },
+          {
+            "id": "0b7c204a9fc01d5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "036923b398634c1e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f996c6b6aa0f682e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b3ce29a0b0c5628",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d13cee51db8b20c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTB_CPTS/Academy/01. Pre-Engagement/01a. Penetration Testing Process/Penetration Testing Process.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Penetration Testing Process"
+            }
+          },
+          {
+            "id": "64e0250431c81fd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTB_CPTS/Academy/01. Pre-Engagement/01a. Penetration Testing Process/Penetration Testing Process.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Penetration Testing Process"
+            }
+          },
+          {
+            "id": "97956304d753abbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c9789819a842acc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTB_CPTS/Academy/01. Pre-Engagement/01a. Penetration Testing Process/Penetration Testing Process.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Penetration Testing Process"
+            }
+          },
+          {
+            "id": "a8a1deea89dcfdc9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a28dcee9833c88cb",
+  "lastOpenFiles": [
+    "HTB/SQL INJECTION/11. Writing Files.md",
+    "APUNTES_OBSIDIAN/w_get-help.md",
+    "APUNTES_OBSIDIAN/w_get-command.md",
+    "APUNTES_OBSIDIAN/Sin título.md",
+    "APUNTES_OBSIDIAN/Planificación Anual.md",
+    "APUNTES_OBSIDIAN/DIA A DIA.md",
+    "APUNTES_OBSIDIAN/Curriculum Vitae.md",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/Procesadores Del Lenguaje/PL3/Tareas a Realizar.md",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS.canvas",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/BBDD AUTOS.md",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS 1.canvas",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/Procesadores Del Lenguaje/PL3",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/SSOOAV/Sin título.md",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/SSOOAV/PL1.md",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/CATEDRA/BERT/BERT-UNCASED.md",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/Procesadores Del Lenguaje",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/SSOOAV",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/REPASAR PAP.md",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/ERASMUS/TO DO LIST.md",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/CATEDRA/BERT",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/ERASMUS",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Cuarto",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108202029.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108203333.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108201609.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108202003.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108194328.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108194242.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231135249.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231135159.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231131738.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231131717.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Valley.md",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Pickle Rick.md",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Opacity.md",
+    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/10. Misc/Whitebox Pentesting 101/Whitebox Pentesting 101.md",
+    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/10. Misc/Secure Coding 101 - JavaScript/Secure Coding 101 - JavaScript.md",
+    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/10. Misc/MacOS Fundamentals/MacOS Fundamentals.md",
+    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/09. Post-Engagement/36. Attacking Enterprise Networks/Attacking Enterprise Networks.md",
+    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/09. Post-Engagement/35. Documentation & Reporting/Documentation & Reporting.md",
+    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/08. Proof-of-Concept/34c. Stack-Based Buffer Overflows on Windows x86/Stack-Based Buffer Overflows on Windows x86.md",
+    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/08. Proof-of-Concept/34b. Stack-Based Buffer Overflows on Linux x86/Stack-Based Buffer Overflows on Linux x86.md",
+    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/08. Proof-of-Concept/34a. Intro to Assembly Language/Intro to Assembly Language.md",
+    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/06. Post-Exploitation/33. Windows Privilege Escalation/Windows Privilege Escalation.md",
+    "Sin título.canvas",
+    "Sin título 1.canvas",
+    "UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS 1.canvas",
+    "UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS.canvas"
+  ]
+}
