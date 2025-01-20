@@ -1,7 +1,7 @@
 # Information Gathering - Web Edition
 
 Tags: #🧑 
-Related to: [[onehistory]] , [[aquatone]], [[cewl]], [[curl]], [[dig]], [[ffuf cewl]], [[gobuster]], [[head]], [[jq]], [[nslookup]], [[openssl]] [[sort]], [[theharvester]], [[wafw00f]], [[wappalyzer]], [[waybackurls]], [[whatweb]], [[whois]], [[zap]]
+Related to: [[onehistory]] , [[aquatone]], [[cewl]], [[curl]], [[dig]], [[ffuf cewl]], [[gobuster]], [[head]], [[jq]], [[nslookup]], [[openssl]] [[sort]], [[theharvester]], [[wafw00f]], [[wappalyzer]], [[waybackurls]], [[whatweb]], [[2. WHOIS]], [[zap]]
 See also:
 Previous: [[HTB Academy]]
 

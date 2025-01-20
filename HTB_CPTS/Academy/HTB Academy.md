@@ -36,7 +36,7 @@ HTB Academy is cybersecurity learning the HTB way! An effort to gather everythin
 [[Footprinting]]
 [[Getting Started]]
 [[Hacking Wordpress]]
-[[Information Gathering - Web Edition]]
+[[HTB_CPTS/Academy/02. Information Gathering/12. Information Gathering - Web Edition/Information Gathering - Web Edition]]
 [[Introduction to Active Directory]]
 [[Introduction to Bash Scripting]]
 [[Introduction to Networking]]
