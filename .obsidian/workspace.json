@@ -11,10 +11,14 @@
             "id": "a28dcee9833c88cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HTB/EJERCICIOS PENDIENTES.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "EJERCICIOS PENDIENTES"
             }
           }
         ]

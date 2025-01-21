@@ -2,5 +2,6 @@
   "accentColor": "",
   "nativeMenus": false,
   "baseFontSize": 22,
-  "cssTheme": "Tokyo Night"
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian"
 }
