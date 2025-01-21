@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "eb53e3e34eca98e1",
+        "id": "2f66d63b8d9e7cc2",
         "type": "tabs",
         "children": [
           {
-            "id": "a28dcee9833c88cb",
+            "id": "6f10dde0e520a50d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/EJERCICIOS PENDIENTES.md",
+                "file": "APUNTES_OBSIDIAN/HTB/Peticiones Web/Métodos de HTTP/POST.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "POST"
+            }
+          },
+          {
+            "id": "d25201f482cc6c6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES_OBSIDIAN/HTB/Using Web Proxies/2. Intercepting Web Request.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EJERCICIOS PENDIENTES"
+              "title": "2. Intercepting Web Request"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,8 +208,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a28dcee9833c88cb",
+  "active": "d25201f482cc6c6a",
   "lastOpenFiles": [
+    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/3..md",
+    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/2. Intercepting Web Request.md",
+    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/1. Intro to Web Proxies.md",
+    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/Anexos/Intercepting Responses.md",
+    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/Anexos/Pasted image 20250118170021.png",
+    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/Anexos/Pasted image 20250118165829.png",
+    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/Anexos",
+    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/CHEATSHEET.md",
+    "APUNTES_OBSIDIAN/HTB/Using Web Proxies",
+    "APUNTES_OBSIDIAN/HTB/Peticiones Web/Métodos de HTTP/POST.md",
+    "APUNTES_OBSIDIAN/HTB/Peticiones Web/Métodos de HTTP/CRUD API.md",
+    "APUNTES_OBSIDIAN/HTB/Peticiones Web/Métodos de HTTP/GET.md",
+    "APUNTES_OBSIDIAN/HTB/Peticiones Web/Fundamentos de HTTP/Hypertext Transfer Protocol Secure.md",
+    "APUNTES_OBSIDIAN/HTB/Peticiones Web/Fundamentos de HTTP/Hyper Text Transfer Protocol.md",
+    "APUNTES_OBSIDIAN/HTB/Peticiones Web/Fundamentos de HTTP/HTTP Requests and Responses.md",
+    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/SKILL ASSESMENT.md",
+    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/12. Mitigating SQL Injection.md",
+    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/9. Database Enumeration.md",
+    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/6. Subverting Query Logic.md",
+    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/4. SQL Operators.md",
+    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/2. SQL Statements.md",
+    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/3. Query Results.md",
+    "APUNTES_OBSIDIAN/HTB/ffuf/FFUF web fuzzing.md",
+    "APUNTES_OBSIDIAN/Anexos/Pasted image 20250117123057.png",
+    "APUNTES_OBSIDIAN/Anexos/Pasted image 20250117123142.png",
+    "APUNTES_OBSIDIAN/Anexos/Pasted image 20250117122248.png",
+    "APUNTES_OBSIDIAN/Anexos/Pasted image 20250117121817.png",
+    "APUNTES_OBSIDIAN/Anexos",
     "HTB/SQL INJECTION/11. Writing Files.md",
     "APUNTES_OBSIDIAN/w_get-help.md",
     "APUNTES_OBSIDIAN/w_get-command.md",
@@ -202,47 +245,19 @@
     "APUNTES_OBSIDIAN/Planificación Anual.md",
     "APUNTES_OBSIDIAN/DIA A DIA.md",
     "APUNTES_OBSIDIAN/Curriculum Vitae.md",
-    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/Procesadores Del Lenguaje/PL3/Tareas a Realizar.md",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS.canvas",
-    "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/BBDD AUTOS.md",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS 1.canvas",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/Procesadores Del Lenguaje/PL3",
-    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/SSOOAV/Sin título.md",
-    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/SSOOAV/PL1.md",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2",
-    "APUNTES_OBSIDIAN/UNIVERSIDAD/CATEDRA/BERT/BERT-UNCASED.md",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/Procesadores Del Lenguaje",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/SSOOAV",
-    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/REPASAR PAP.md",
-    "APUNTES_OBSIDIAN/UNIVERSIDAD/ERASMUS/TO DO LIST.md",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/CATEDRA/BERT",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero",
-    "APUNTES_OBSIDIAN/UNIVERSIDAD/ERASMUS",
-    "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo",
-    "APUNTES_OBSIDIAN/UNIVERSIDAD/Cuarto",
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108202029.png",
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108203333.png",
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108201609.png",
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108202003.png",
-    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108194328.png",
-    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108194242.png",
-    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231135249.png",
-    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231135159.png",
-    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231131738.png",
-    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231131717.png",
-    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Valley.md",
-    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Pickle Rick.md",
-    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Opacity.md",
-    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/10. Misc/Whitebox Pentesting 101/Whitebox Pentesting 101.md",
-    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/10. Misc/Secure Coding 101 - JavaScript/Secure Coding 101 - JavaScript.md",
-    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/10. Misc/MacOS Fundamentals/MacOS Fundamentals.md",
-    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/09. Post-Engagement/36. Attacking Enterprise Networks/Attacking Enterprise Networks.md",
-    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/09. Post-Engagement/35. Documentation & Reporting/Documentation & Reporting.md",
-    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/08. Proof-of-Concept/34c. Stack-Based Buffer Overflows on Windows x86/Stack-Based Buffer Overflows on Windows x86.md",
-    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/08. Proof-of-Concept/34b. Stack-Based Buffer Overflows on Linux x86/Stack-Based Buffer Overflows on Linux x86.md",
-    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/08. Proof-of-Concept/34a. Intro to Assembly Language/Intro to Assembly Language.md",
-    "APUNTES_OBSIDIAN/HTB_CPTS/Academy/06. Post-Exploitation/33. Windows Privilege Escalation/Windows Privilege Escalation.md",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS 1.canvas",
