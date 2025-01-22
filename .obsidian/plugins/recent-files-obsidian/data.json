@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "6. Subverting Query Logic",
+      "path": "HTB/SQL INJECTION/6. Subverting Query Logic.md"
+    },
+    {
+      "basename": "4. SQL Operators",
+      "path": "HTB/SQL INJECTION/4. SQL Operators.md"
+    },
+    {
+      "basename": "5. Intro to SQL Injections",
+      "path": "HTB/SQL INJECTION/5. Intro to SQL Injections.md"
+    },
+    {
       "basename": "FFUF web fuzzing",
       "path": "HTB/ffuf/FFUF web fuzzing.md"
     },
