@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "12. Crawling",
+      "path": "HTB/Information Gathering - Web Edition/12. Crawling.md"
+    },
+    {
+      "basename": "9.Virtual Hosts",
+      "path": "HTB/Information Gathering - Web Edition/9.Virtual Hosts.md"
+    },
+    {
+      "basename": "8. DNS Zone Transfers",
+      "path": "HTB/Information Gathering - Web Edition/8. DNS Zone Transfers.md"
+    },
+    {
+      "basename": "7. Subdomain Bruteforcing",
+      "path": "HTB/Information Gathering - Web Edition/7. Subdomain Bruteforcing.md"
+    },
+    {
+      "basename": "6. Subdomains",
+      "path": "HTB/Information Gathering - Web Edition/6. Subdomains.md"
+    },
+    {
+      "basename": "16. Search engine Discovery",
+      "path": "HTB/Information Gathering - Web Edition/16. Search engine Discovery.md"
+    },
+    {
+      "basename": "15. Creepy Crawlies",
+      "path": "HTB/Information Gathering - Web Edition/15. Creepy Crawlies.md"
+    },
+    {
+      "basename": "14. Well-Known URIs",
+      "path": "HTB/Information Gathering - Web Edition/14. Well-Known URIs.md"
+    },
+    {
       "basename": "EJERCICIOS PENDIENTES",
       "path": "HTB/EJERCICIOS PENDIENTES.md"
     }

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2f66d63b8d9e7cc2",
+        "id": "eb53e3e34eca98e1",
         "type": "tabs",
         "children": [
           {
-            "id": "6f10dde0e520a50d",
+            "id": "a28dcee9833c88cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APUNTES_OBSIDIAN/HTB/Peticiones Web/Métodos de HTTP/POST.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "POST"
-            }
-          },
-          {
-            "id": "d25201f482cc6c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APUNTES_OBSIDIAN/HTB/Using Web Proxies/2. Intercepting Web Request.md",
+                "file": "HTB/Information Gathering - Web Edition/12. Crawling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Intercepting Web Request"
+              "title": "12. Crawling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,36 +193,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d25201f482cc6c6a",
+  "active": "a28dcee9833c88cb",
   "lastOpenFiles": [
-    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/3..md",
-    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/2. Intercepting Web Request.md",
-    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/1. Intro to Web Proxies.md",
-    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/Anexos/Intercepting Responses.md",
-    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/Anexos/Pasted image 20250118170021.png",
-    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/Anexos/Pasted image 20250118165829.png",
-    "APUNTES_OBSIDIAN/HTB/Using Web Proxies/Anexos",
-    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/CHEATSHEET.md",
-    "APUNTES_OBSIDIAN/HTB/Using Web Proxies",
-    "APUNTES_OBSIDIAN/HTB/Peticiones Web/Métodos de HTTP/POST.md",
-    "APUNTES_OBSIDIAN/HTB/Peticiones Web/Métodos de HTTP/CRUD API.md",
-    "APUNTES_OBSIDIAN/HTB/Peticiones Web/Métodos de HTTP/GET.md",
-    "APUNTES_OBSIDIAN/HTB/Peticiones Web/Fundamentos de HTTP/Hypertext Transfer Protocol Secure.md",
-    "APUNTES_OBSIDIAN/HTB/Peticiones Web/Fundamentos de HTTP/Hyper Text Transfer Protocol.md",
-    "APUNTES_OBSIDIAN/HTB/Peticiones Web/Fundamentos de HTTP/HTTP Requests and Responses.md",
-    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/SKILL ASSESMENT.md",
-    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/12. Mitigating SQL Injection.md",
-    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/9. Database Enumeration.md",
-    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/6. Subverting Query Logic.md",
-    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/4. SQL Operators.md",
-    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/2. SQL Statements.md",
-    "APUNTES_OBSIDIAN/HTB/SQL INJECTION/3. Query Results.md",
-    "APUNTES_OBSIDIAN/HTB/ffuf/FFUF web fuzzing.md",
-    "APUNTES_OBSIDIAN/Anexos/Pasted image 20250117123057.png",
-    "APUNTES_OBSIDIAN/Anexos/Pasted image 20250117123142.png",
-    "APUNTES_OBSIDIAN/Anexos/Pasted image 20250117122248.png",
-    "APUNTES_OBSIDIAN/Anexos/Pasted image 20250117121817.png",
-    "APUNTES_OBSIDIAN/Anexos",
+    "HTB/Information Gathering - Web Edition/9.Virtual Hosts.md",
+    "HTB/Information Gathering - Web Edition/8. DNS Zone Transfers.md",
+    "HTB/Information Gathering - Web Edition/7. Subdomain Bruteforcing.md",
+    "HTB/Information Gathering - Web Edition/6. Subdomains.md",
+    "HTB/Information Gathering - Web Edition/16. Search engine Discovery.md",
+    "HTB/Information Gathering - Web Edition/15. Creepy Crawlies.md",
+    "HTB/Information Gathering - Web Edition/14. Well-Known URIs.md",
+    "HTB/EJERCICIOS PENDIENTES.md",
+    "HTB/Using Web Proxies/5. Repeating Requests.md",
+    "HTB/Using Web Proxies/4. Automatic Modification.md",
+    "HTB/Using Web Proxies/3. Intercept Web Response.md",
     "HTB/SQL INJECTION/11. Writing Files.md",
     "APUNTES_OBSIDIAN/w_get-help.md",
     "APUNTES_OBSIDIAN/w_get-command.md",
@@ -245,19 +213,36 @@
     "APUNTES_OBSIDIAN/Planificación Anual.md",
     "APUNTES_OBSIDIAN/DIA A DIA.md",
     "APUNTES_OBSIDIAN/Curriculum Vitae.md",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/Procesadores Del Lenguaje/PL3/Tareas a Realizar.md",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS.canvas",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/BBDD AUTOS.md",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS 1.canvas",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/Procesadores Del Lenguaje/PL3",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/SSOOAV/Sin título.md",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/SSOOAV/PL1.md",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/CATEDRA/BERT/BERT-UNCASED.md",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/Procesadores Del Lenguaje",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/SSOOAV",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/REPASAR PAP.md",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/ERASMUS/TO DO LIST.md",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/CATEDRA/BERT",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/ERASMUS",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo",
+    "APUNTES_OBSIDIAN/UNIVERSIDAD/Cuarto",
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108202029.png",
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108203333.png",
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108201609.png",
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108202003.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108194328.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108194242.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231135249.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231135159.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231131738.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231131717.png",
+    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Valley.md",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS 1.canvas",
