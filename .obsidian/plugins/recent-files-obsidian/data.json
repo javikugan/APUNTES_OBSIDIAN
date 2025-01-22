@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "FFUF web fuzzing",
+      "path": "HTB/ffuf/FFUF web fuzzing.md"
+    },
+    {
       "basename": "15. Creepy Crawlies",
       "path": "HTB/Information Gathering - Web Edition/15. Creepy Crawlies.md"
     },
