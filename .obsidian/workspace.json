@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Information Gathering - Web Edition/12. Crawling.md",
+                "file": "HTB/Information Gathering - Web Edition/15. Creepy Crawlies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Crawling"
+              "title": "15. Creepy Crawlies"
             }
           }
         ]
@@ -195,10 +195,12 @@
   },
   "active": "a28dcee9833c88cb",
   "lastOpenFiles": [
+    "HTB/Information Gathering - Web Edition/12. Crawling.md",
+    "HTB/Information Gathering - Web Edition/6. Subdomains.md",
+    "HTB/Information Gathering - Web Edition/4. DNS.md",
     "HTB/Information Gathering - Web Edition/9.Virtual Hosts.md",
     "HTB/Information Gathering - Web Edition/8. DNS Zone Transfers.md",
     "HTB/Information Gathering - Web Edition/7. Subdomain Bruteforcing.md",
-    "HTB/Information Gathering - Web Edition/6. Subdomains.md",
     "HTB/Information Gathering - Web Edition/16. Search engine Discovery.md",
     "HTB/Information Gathering - Web Edition/15. Creepy Crawlies.md",
     "HTB/Information Gathering - Web Edition/14. Well-Known URIs.md",
@@ -225,7 +227,6 @@
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/Procesadores Del Lenguaje",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/SSOOAV",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/REPASAR PAP.md",
-    "APUNTES_OBSIDIAN/UNIVERSIDAD/ERASMUS/TO DO LIST.md",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/CATEDRA/BERT",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero",
@@ -242,7 +243,6 @@
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231135159.png",
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231131738.png",
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231131717.png",
-    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Valley.md",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS 1.canvas",
