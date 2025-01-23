@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "10. Certificate Transparency Logs",
+      "path": "HTB/Information Gathering - Web Edition/10. Certificate Transparency Logs.md"
+    },
+    {
       "basename": "6. Subverting Query Logic",
       "path": "HTB/SQL INJECTION/6. Subverting Query Logic.md"
     },
