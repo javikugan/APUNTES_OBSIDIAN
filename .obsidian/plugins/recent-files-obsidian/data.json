@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8. Session Hijacking y Blind XSS",
+      "path": "HTB/Cross-Site Scripting (XSS)/8. Session Hijacking y Blind XSS.md"
+    },
+    {
       "basename": "3. Reflected XSS",
       "path": "HTB/Cross-Site Scripting (XSS)/3. Reflected XSS.md"
     },

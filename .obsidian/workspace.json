@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Cross-Site Scripting (XSS)/3. Reflected XSS.md",
+                "file": "HTB/Cross-Site Scripting (XSS)/8. Session Hijacking y Blind XSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Reflected XSS"
+              "title": "8. Session Hijacking y Blind XSS"
             }
           }
         ]
@@ -195,6 +195,8 @@
   },
   "active": "a28dcee9833c88cb",
   "lastOpenFiles": [
+    "HTB/Cross-Site Scripting (XSS)/3. Reflected XSS.md",
+    "HTB/Cross-Site Scripting (XSS)/8. Session Hijacking y Blind XSS.md",
     "HTB/Cross-Site Scripting (XSS)/4. DOM-Based XSS.md",
     "HTB/Cross-Site Scripting (XSS)/5. XSS Discovery.md",
     "HTB/Cross-Site Scripting (XSS)/6. Defacing.md",
@@ -206,7 +208,6 @@
     "HTB/Information Gathering - Web Edition/18. Automatic Gathering.md",
     "HTB/Hacking WordPress/1. Introduccion.md",
     "HTB/Hacking WordPress",
-    "HTB/Cross-Site Scripting (XSS)/3. Reflected XSS.md",
     "HTB/Cross-Site Scripting (XSS)/2. Stored XSS.md",
     "HTB/Cross-Site Scripting (XSS)/1. Introduction.md",
     "HTB/Cross-Site Scripting (XSS)",
@@ -222,7 +223,6 @@
     "HTB/Information Gathering - Web Edition/8. DNS Zone Transfers.md",
     "HTB/Information Gathering - Web Edition/16. Search engine Discovery.md",
     "HTB/Information Gathering - Web Edition/14. Well-Known URIs.md",
-    "HTB/EJERCICIOS PENDIENTES.md",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS.canvas",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS 1.canvas",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/Procesadores Del Lenguaje/PL3",
