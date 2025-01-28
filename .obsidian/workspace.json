@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Information Gathering - Web Edition/10. Certificate Transparency Logs.md",
+                "file": "HTB/Cross-Site Scripting (XSS)/3. Reflected XSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Certificate Transparency Logs"
+              "title": "3. Reflected XSS"
             }
           }
         ]
@@ -195,14 +195,17 @@
   },
   "active": "a28dcee9833c88cb",
   "lastOpenFiles": [
+    "HTB/Cross-Site Scripting (XSS)/4. DOM-Based XSS.md",
+    "HTB/Cross-Site Scripting (XSS)/5. XSS Discovery.md",
+    "HTB/Cross-Site Scripting (XSS)/6. Defacing.md",
+    "HTB/Cross-Site Scripting (XSS)/7. Phising.md",
+    "HTB/Information Gathering - Web Edition/1. Introduction.md",
+    "HTB/Information Gathering - Web Edition/7. Subdomain Bruteforcing.md",
+    "HTB/Information Gathering - Web Edition/10. Certificate Transparency Logs.md",
     "HTB/Information Gathering - Web Edition/SKILL ASSESMENT.md",
     "HTB/Information Gathering - Web Edition/18. Automatic Gathering.md",
     "HTB/Hacking WordPress/1. Introduccion.md",
     "HTB/Hacking WordPress",
-    "HTB/Cross-Site Scripting (XSS)/7. Phising.md",
-    "HTB/Cross-Site Scripting (XSS)/6. Defacing.md",
-    "HTB/Cross-Site Scripting (XSS)/5. XSS Discovery.md",
-    "HTB/Cross-Site Scripting (XSS)/4. DOM-Based XSS.md",
     "HTB/Cross-Site Scripting (XSS)/3. Reflected XSS.md",
     "HTB/Cross-Site Scripting (XSS)/2. Stored XSS.md",
     "HTB/Cross-Site Scripting (XSS)/1. Introduction.md",
@@ -217,12 +220,9 @@
     "HTB/Information Gathering - Web Edition/4. DNS.md",
     "HTB/Information Gathering - Web Edition/9.Virtual Hosts.md",
     "HTB/Information Gathering - Web Edition/8. DNS Zone Transfers.md",
-    "HTB/Information Gathering - Web Edition/7. Subdomain Bruteforcing.md",
     "HTB/Information Gathering - Web Edition/16. Search engine Discovery.md",
     "HTB/Information Gathering - Web Edition/14. Well-Known URIs.md",
     "HTB/EJERCICIOS PENDIENTES.md",
-    "HTB/Using Web Proxies/5. Repeating Requests.md",
-    "HTB/Using Web Proxies/4. Automatic Modification.md",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS.canvas",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS 1.canvas",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Tercero/Procesadores Del Lenguaje/PL3",

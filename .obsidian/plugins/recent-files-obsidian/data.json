@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "3. Reflected XSS",
+      "path": "HTB/Cross-Site Scripting (XSS)/3. Reflected XSS.md"
+    },
+    {
+      "basename": "4. DOM-Based XSS",
+      "path": "HTB/Cross-Site Scripting (XSS)/4. DOM-Based XSS.md"
+    },
+    {
+      "basename": "5. XSS Discovery",
+      "path": "HTB/Cross-Site Scripting (XSS)/5. XSS Discovery.md"
+    },
+    {
+      "basename": "6. Defacing",
+      "path": "HTB/Cross-Site Scripting (XSS)/6. Defacing.md"
+    },
+    {
+      "basename": "7. Phising",
+      "path": "HTB/Cross-Site Scripting (XSS)/7. Phising.md"
+    },
+    {
+      "basename": "1. Introduction",
+      "path": "HTB/Information Gathering - Web Edition/1. Introduction.md"
+    },
+    {
+      "basename": "7. Subdomain Bruteforcing",
+      "path": "HTB/Information Gathering - Web Edition/7. Subdomain Bruteforcing.md"
+    },
+    {
       "basename": "10. Certificate Transparency Logs",
       "path": "HTB/Information Gathering - Web Edition/10. Certificate Transparency Logs.md"
     },
@@ -43,10 +71,6 @@
     {
       "basename": "8. DNS Zone Transfers",
       "path": "HTB/Information Gathering - Web Edition/8. DNS Zone Transfers.md"
-    },
-    {
-      "basename": "7. Subdomain Bruteforcing",
-      "path": "HTB/Information Gathering - Web Edition/7. Subdomain Bruteforcing.md"
     },
     {
       "basename": "16. Search engine Discovery",
