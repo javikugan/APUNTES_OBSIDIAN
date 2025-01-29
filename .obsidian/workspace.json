@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/MACHINES/EASY/Opacity.md",
+                "file": "HTB/Hacking WordPress/13. Metasploit Wordpress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opacity"
+              "title": "13. Metasploit Wordpress"
             }
           }
         ]
@@ -193,8 +193,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dc6a4efa23d0ba7b",
+  "active": "a28dcee9833c88cb",
   "lastOpenFiles": [
+    "THM/MACHINES/EASY/Opacity.md",
+    "HTB/Hacking WordPress/13. Metasploit Wordpress.md",
     "THM/MACHINES/EASY/Valley.md",
     "THM/MACHINES/EASY/Pickle Rick.md",
     "HTB/Hacking WordPress/12. Remote Code Execution (RCE) via the Theme Editor.md",
@@ -220,8 +222,6 @@
     "HTB/Information Gathering - Web Edition/7. Subdomain Bruteforcing.md",
     "HTB/Information Gathering - Web Edition/10. Certificate Transparency Logs.md",
     "HTB/Information Gathering - Web Edition/SKILL ASSESMENT.md",
-    "HTB/Information Gathering - Web Edition/18. Automatic Gathering.md",
-    "HTB/Hacking WordPress/1. Introduccion.md",
     "HTB/Hacking WordPress",
     "HTB/Cross-Site Scripting (XSS)",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS.canvas",
