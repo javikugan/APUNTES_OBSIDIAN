@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/SQLMap Essentials/4..md",
+                "file": "HTB/SQLMap Essentials/4. Running SQLMap on an HTTP Request.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4."
+              "title": "4. Running SQLMap on an HTTP Request"
             }
           }
         ],
@@ -211,7 +211,7 @@
   "active": "004882bab85a57f2",
   "lastOpenFiles": [
     "HTB/Hacking WordPress/2. WordPress Structure.md",
-    "HTB/SQLMap Essentials/4..md",
+    "HTB/SQLMap Essentials/4. Running SQLMap on an HTTP Request.md",
     "HTB/Hacking WordPress/10. WPScan Enumeration.md",
     "HTB/Hacking WordPress/11. Exploiting a Vulnerable Plugin.md",
     "HTB/Hacking WordPress/7. User Enumeration.md",
