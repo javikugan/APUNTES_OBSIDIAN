@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Hacking WordPress/2. WordPress Structure.md",
+                "file": "HTB/SQLMap Essentials/4..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. WordPress Structure"
+              "title": "4."
             }
           }
         ],
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xml",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +108,7 @@
               "title": "Complemento no activo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,12 +210,13 @@
   },
   "active": "004882bab85a57f2",
   "lastOpenFiles": [
+    "HTB/Hacking WordPress/2. WordPress Structure.md",
+    "HTB/SQLMap Essentials/4..md",
     "HTB/Hacking WordPress/10. WPScan Enumeration.md",
     "HTB/Hacking WordPress/11. Exploiting a Vulnerable Plugin.md",
     "HTB/Hacking WordPress/7. User Enumeration.md",
     "HTB/Hacking WordPress/6. Directory Indexing.md",
     "HTB/Hacking WordPress/5. Plugins and Themes Enumeration.md",
-    "HTB/Hacking WordPress/2. WordPress Structure.md",
     "14. Wordpress Hardening.md",
     "HTB/Hacking WordPress/13. Metasploit Wordpress.md",
     "THM/MACHINES/EASY/Opacity.md",
@@ -237,7 +237,6 @@
     "HTB/Cross-Site Scripting (XSS)/3. Reflected XSS.md",
     "HTB/Cross-Site Scripting (XSS)/4. DOM-Based XSS.md",
     "HTB/Cross-Site Scripting (XSS)/5. XSS Discovery.md",
-    "HTB/Cross-Site Scripting (XSS)/6. Defacing.md",
     "HTB/Hacking WordPress",
     "HTB/Cross-Site Scripting (XSS)",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS.canvas",
