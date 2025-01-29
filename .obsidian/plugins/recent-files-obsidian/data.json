@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "9.WPScan",
+      "path": "HTB/Hacking WordPress/9.WPScan.md"
+    },
+    {
+      "basename": "8. Login",
+      "path": "HTB/Hacking WordPress/8. Login.md"
+    },
+    {
       "basename": "8. Session Hijacking y Blind XSS",
       "path": "HTB/Cross-Site Scripting (XSS)/8. Session Hijacking y Blind XSS.md"
     },
