@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Opacity",
+      "path": "THM/MACHINES/EASY/Opacity.md"
+    },
+    {
+      "basename": "Valley",
+      "path": "THM/MACHINES/EASY/Valley.md"
+    },
+    {
+      "basename": "Pickle Rick",
+      "path": "THM/MACHINES/EASY/Pickle Rick.md"
+    },
+    {
       "basename": "12. Remote Code Execution (RCE) via the Theme Editor",
       "path": "HTB/Hacking WordPress/12. Remote Code Execution (RCE) via the Theme Editor.md"
     },
