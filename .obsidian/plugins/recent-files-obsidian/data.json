@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12. Remote Code Execution (RCE) via the Theme Editor",
+      "path": "HTB/Hacking WordPress/12. Remote Code Execution (RCE) via the Theme Editor.md"
+    },
+    {
       "basename": "12. Attacking WordPress Users",
       "path": "HTB/Hacking WordPress/12. Attacking WordPress Users.md"
     },
