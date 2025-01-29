@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Hacking WordPress/7. User Enumeration.md",
+                "file": "HTB/Hacking WordPress/10. WPScan Enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. User Enumeration"
+              "title": "10. WPScan Enumeration"
             }
           }
         ],
@@ -210,6 +210,8 @@
   },
   "active": "004882bab85a57f2",
   "lastOpenFiles": [
+    "HTB/Hacking WordPress/11. Exploiting a Vulnerable Plugin.md",
+    "HTB/Hacking WordPress/7. User Enumeration.md",
     "HTB/Hacking WordPress/6. Directory Indexing.md",
     "HTB/Hacking WordPress/5. Plugins and Themes Enumeration.md",
     "HTB/Hacking WordPress/2. WordPress Structure.md",
@@ -220,7 +222,6 @@
     "THM/MACHINES/EASY/Pickle Rick.md",
     "HTB/Hacking WordPress/12. Remote Code Execution (RCE) via the Theme Editor.md",
     "HTB/Hacking WordPress/12. Attacking WordPress Users.md",
-    "HTB/Hacking WordPress/11. Exploiting a Vulnerable Plugin.md",
     "HTB/Hacking WordPress/10. WPScan Enumeration.md",
     "HTB/Hacking WordPress/9.WPScan Overview.md",
     "HTB/Hacking WordPress/8. Login.md",
@@ -236,7 +237,6 @@
     "HTB/Cross-Site Scripting (XSS)/4. DOM-Based XSS.md",
     "HTB/Cross-Site Scripting (XSS)/5. XSS Discovery.md",
     "HTB/Cross-Site Scripting (XSS)/6. Defacing.md",
-    "HTB/Cross-Site Scripting (XSS)/7. Phising.md",
     "HTB/Hacking WordPress",
     "HTB/Cross-Site Scripting (XSS)",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS.canvas",

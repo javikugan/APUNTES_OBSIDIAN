@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10. WPScan Enumeration",
+      "path": "HTB/Hacking WordPress/10. WPScan Enumeration.md"
+    },
+    {
+      "basename": "11. Exploiting a Vulnerable Plugin",
+      "path": "HTB/Hacking WordPress/11. Exploiting a Vulnerable Plugin.md"
+    },
+    {
       "basename": "7. User Enumeration",
       "path": "HTB/Hacking WordPress/7. User Enumeration.md"
     },
@@ -43,14 +51,6 @@
     {
       "basename": "12. Attacking WordPress Users",
       "path": "HTB/Hacking WordPress/12. Attacking WordPress Users.md"
-    },
-    {
-      "basename": "11. Exploiting a Vulnerable Plugin",
-      "path": "HTB/Hacking WordPress/11. Exploiting a Vulnerable Plugin.md"
-    },
-    {
-      "basename": "10. WPScan Enumeration",
-      "path": "HTB/Hacking WordPress/10. WPScan Enumeration.md"
     },
     {
       "basename": "9.WPScan Overview",
