@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/SQLMap Essentials/9. Bypassing Web Application Protections.md",
+                "file": "HTB/SQLMap Essentials/6. SQLMap Tuning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Bypassing Web Application Protections"
+              "title": "6. SQLMap Tuning"
             }
           }
         ],
@@ -253,8 +253,8 @@
   "active": "f303ba3e8b88fbf3",
   "lastOpenFiles": [
     "HTB/SQLMap Essentials/8. Advanced Database Enumeration.md",
-    "HTB/SQLMap Essentials/9. Bypassing Web Application Protections.md",
     "HTB/SQLMap Essentials/7. Database Enumeration.md",
+    "HTB/SQLMap Essentials/9. Bypassing Web Application Protections.md",
     "HTB/SQLMap Essentials/6. SQLMap Tuning.md",
     "THM/MACHINES/EASY/Pickle Rick.md",
     "Pasted image 20250130125544.png",

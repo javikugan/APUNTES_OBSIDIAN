@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "9. Bypassing Web Application Protections",
-      "path": "HTB/SQLMap Essentials/9. Bypassing Web Application Protections.md"
+      "basename": "6. SQLMap Tuning",
+      "path": "HTB/SQLMap Essentials/6. SQLMap Tuning.md"
     },
     {
       "basename": "8. Advanced Database Enumeration",
@@ -13,8 +13,8 @@
       "path": "HTB/SQLMap Essentials/7. Database Enumeration.md"
     },
     {
-      "basename": "6. SQLMap Tuning",
-      "path": "HTB/SQLMap Essentials/6. SQLMap Tuning.md"
+      "basename": "9. Bypassing Web Application Protections",
+      "path": "HTB/SQLMap Essentials/9. Bypassing Web Application Protections.md"
     },
     {
       "basename": "Pickle Rick",
