@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "9. Bypassing Web Application Protections",
+      "path": "HTB/SQLMap Essentials/9. Bypassing Web Application Protections.md"
+    },
+    {
+      "basename": "8. Advanced Database Enumeration",
+      "path": "HTB/SQLMap Essentials/8. Advanced Database Enumeration.md"
+    },
+    {
       "basename": "7. Database Enumeration",
       "path": "HTB/SQLMap Essentials/7. Database Enumeration.md"
     },
