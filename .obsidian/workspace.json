@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "4. Running SQLMap on an HTTP Request"
             }
+          },
+          {
+            "id": "225586320d595249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/SQLMap Essentials/5. Handling SQLMap Errors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Handling SQLMap Errors"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,10 +236,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3ff96833e7389ac3",
+  "active": "225586320d595249",
   "lastOpenFiles": [
-    "Sin título 1.md",
     "HTB/SQLMap Essentials/4. Running SQLMap on an HTTP Request.md",
+    "HTB/SQLMap Essentials/5. Handling SQLMap Errors.md",
+    "Sin título 1.md",
     "HTB/Hacking WordPress/2. WordPress Structure.md",
     "HTB/Hacking WordPress/10. WPScan Enumeration.md",
     "HTB/Hacking WordPress/11. Exploiting a Vulnerable Plugin.md",
@@ -250,7 +265,6 @@
     "HTB/Cross-Site Scripting (XSS)/9. XSS Prevention.md",
     "HTB/Cross-Site Scripting (XSS)/8. Session Hijacking y Blind XSS Detection.md",
     "HTB/Cross-Site Scripting (XSS)/3. Reflected XSS.md",
-    "HTB/Cross-Site Scripting (XSS)/4. DOM-Based XSS.md",
     "HTB/Hacking WordPress",
     "HTB/Cross-Site Scripting (XSS)",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS.canvas",
