@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/SQLMap Essentials/4. Running SQLMap on an HTTP Request.md",
+                "file": "HTB/SQLMap Essentials/6. SQLMap Tuning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Running SQLMap on an HTTP Request"
+              "title": "6. SQLMap Tuning"
             }
           }
         ],
@@ -238,9 +238,10 @@
   },
   "active": "225586320d595249",
   "lastOpenFiles": [
-    "HTB/SQLMap Essentials/6. SQLMap Tuning.md",
+    "Pasted image 20250130125544.png",
     "HTB/SQLMap Essentials/5. Handling SQLMap Errors.md",
     "HTB/SQLMap Essentials/4. Running SQLMap on an HTTP Request.md",
+    "HTB/SQLMap Essentials/6. SQLMap Tuning.md",
     "Sin título 1.md",
     "HTB/Hacking WordPress/2. WordPress Structure.md",
     "HTB/Hacking WordPress/10. WPScan Enumeration.md",
@@ -264,7 +265,6 @@
     "HTB/SQLMap Essentials",
     "HTB/Cross-Site Scripting (XSS)/SKILL ASSESMENT.md",
     "HTB/Cross-Site Scripting (XSS)/9. XSS Prevention.md",
-    "HTB/Cross-Site Scripting (XSS)/8. Session Hijacking y Blind XSS Detection.md",
     "HTB/Hacking WordPress",
     "HTB/Cross-Site Scripting (XSS)",
     "APUNTES_OBSIDIAN/UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS.canvas",
