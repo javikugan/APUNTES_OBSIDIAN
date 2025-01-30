@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "5. Handling SQLMap Errors",
-      "path": "HTB/SQLMap Essentials/5. Handling SQLMap Errors.md"
-    },
-    {
       "basename": "4. Running SQLMap on an HTTP Request",
       "path": "HTB/SQLMap Essentials/4. Running SQLMap on an HTTP Request.md"
+    },
+    {
+      "basename": "6. SQLMap Tuning",
+      "path": "HTB/SQLMap Essentials/6. SQLMap Tuning.md"
+    },
+    {
+      "basename": "5. Handling SQLMap Errors",
+      "path": "HTB/SQLMap Essentials/5. Handling SQLMap Errors.md"
     },
     {
       "basename": "Sin título 1",
