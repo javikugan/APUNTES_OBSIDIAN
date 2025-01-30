@@ -5,6 +5,10 @@
       "path": "HTB/SQLMap Essentials/6. SQLMap Tuning.md"
     },
     {
+      "basename": "Pickle Rick",
+      "path": "THM/MACHINES/EASY/Pickle Rick.md"
+    },
+    {
       "basename": "5. Handling SQLMap Errors",
       "path": "HTB/SQLMap Essentials/5. Handling SQLMap Errors.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Valley",
       "path": "THM/MACHINES/EASY/Valley.md"
-    },
-    {
-      "basename": "Pickle Rick",
-      "path": "THM/MACHINES/EASY/Pickle Rick.md"
     },
     {
       "basename": "12. Remote Code Execution (RCE) via the Theme Editor",
