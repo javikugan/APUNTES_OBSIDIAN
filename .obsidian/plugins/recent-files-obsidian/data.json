@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Other Injection Operators",
+      "path": "HTB/Command Injections/4. Other Injection Operators.md"
+    },
+    {
+      "basename": "5. Identifying Filters",
+      "path": "HTB/Command Injections/5. Identifying Filters.md"
+    },
+    {
       "basename": "6. Bypassing Space Filters",
       "path": "HTB/Command Injections/6. Bypassing Space Filters.md"
     },
     {
       "basename": "3. Injecting Commands",
       "path": "HTB/Command Injections/3. Injecting Commands.md"
-    },
-    {
-      "basename": "4. Other Injection Operators",
-      "path": "HTB/Command Injections/4. Other Injection Operators.md"
     },
     {
       "basename": "1. Intro to File upload Attacks",
