@@ -5,6 +5,14 @@
       "path": "HTB/Command Injections/6. Bypassing Space Filters.md"
     },
     {
+      "basename": "3. Injecting Commands",
+      "path": "HTB/Command Injections/3. Injecting Commands.md"
+    },
+    {
+      "basename": "4. Other Injection Operators",
+      "path": "HTB/Command Injections/4. Other Injection Operators.md"
+    },
+    {
       "basename": "1. Intro to File upload Attacks",
       "path": "HTB/File Upload Attacks/1. Intro to File upload Attacks.md"
     },
