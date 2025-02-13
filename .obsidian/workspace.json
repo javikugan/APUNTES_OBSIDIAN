@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Command Injections/4. Other Injection Operators.md",
+                "file": "HTB/Command Injections/9. Advanced Command Obfuscation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Other Injection Operators"
+              "title": "9. Advanced Command Obfuscation"
             }
           }
         ],
@@ -267,10 +267,13 @@
   },
   "active": "b1afefc666c4790c",
   "lastOpenFiles": [
+    "HTB/Command Injections/10. Evasion Tools.md",
+    "HTB/Command Injections/añadir.md",
+    "Pasted image 20250213160614.png",
+    "HTB/Command Injections/4. Other Injection Operators.md",
     "HTB/Command Injections/5. Identifying Filters.md",
     "HTB/Command Injections/6. Bypassing Space Filters.md",
     "HTB/Command Injections/3. Injecting Commands.md",
-    "HTB/Command Injections/4. Other Injection Operators.md",
     "HTB/File Upload Attacks/1. Intro to File upload Attacks.md",
     "HTB/SQLMap Essentials/6. SQLMap Tuning.md",
     "HTB/File Upload Attacks",
@@ -293,8 +296,6 @@
     "THM/MACHINES/EASY/Opacity.md",
     "THM/MACHINES/EASY/Valley.md",
     "HTB/Hacking WordPress/12. Remote Code Execution (RCE) via the Theme Editor.md",
-    "HTB/Hacking WordPress/12. Attacking WordPress Users.md",
-    "HTB/Hacking WordPress/9.WPScan Overview.md",
     "HTB/SQLMap Essentials",
     "HTB/Hacking WordPress",
     "HTB/Cross-Site Scripting (XSS)",
@@ -314,7 +315,6 @@
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20250108194242.png",
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231135249.png",
     "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231135159.png",
-    "APUNTES_OBSIDIAN/THM/MACHINES/EASY/Anexos/Pasted image 20241231131738.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "UNIVERSIDAD/Segundo/BBDD AVANZADAS/PL2/CONSULTAS AUTOS 1.canvas",

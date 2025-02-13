@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "9. Advanced Command Obfuscation",
+      "path": "HTB/Command Injections/9. Advanced Command Obfuscation.md"
+    },
+    {
+      "basename": "10. Evasion Tools",
+      "path": "HTB/Command Injections/10. Evasion Tools.md"
+    },
+    {
+      "basename": "añadir",
+      "path": "HTB/Command Injections/añadir.md"
+    },
+    {
       "basename": "4. Other Injection Operators",
       "path": "HTB/Command Injections/4. Other Injection Operators.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "16. Search engine Discovery",
       "path": "HTB/Information Gathering - Web Edition/16. Search engine Discovery.md"
-    },
-    {
-      "basename": "14. Well-Known URIs",
-      "path": "HTB/Information Gathering - Web Edition/14. Well-Known URIs.md"
-    },
-    {
-      "basename": "EJERCICIOS PENDIENTES",
-      "path": "HTB/EJERCICIOS PENDIENTES.md"
     }
   ],
   "omittedPaths": [],
