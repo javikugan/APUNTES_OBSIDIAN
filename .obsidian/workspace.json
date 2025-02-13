@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Intro to File upload Attacks.md",
+                "file": "HTB/Command Injections/6. Bypassing Space Filters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Intro to File upload Attacks"
+              "title": "6. Bypassing Space Filters"
             }
           }
         ],
@@ -111,7 +111,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -266,8 +267,8 @@
   },
   "active": "b1afefc666c4790c",
   "lastOpenFiles": [
+    "HTB/File Upload Attacks/1. Intro to File upload Attacks.md",
     "HTB/SQLMap Essentials/6. SQLMap Tuning.md",
-    "1. Intro to File upload Attacks.md",
     "HTB/File Upload Attacks",
     "HTB/SQLMap Essentials/8. Advanced Database Enumeration.md",
     "HTB/SQLMap Essentials/7. Database Enumeration.md",

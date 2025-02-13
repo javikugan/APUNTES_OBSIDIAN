@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "6. Bypassing Space Filters",
+      "path": "HTB/Command Injections/6. Bypassing Space Filters.md"
+    },
+    {
       "basename": "1. Intro to File upload Attacks",
-      "path": "1. Intro to File upload Attacks.md"
+      "path": "HTB/File Upload Attacks/1. Intro to File upload Attacks.md"
     },
     {
       "basename": "6. SQLMap Tuning",
